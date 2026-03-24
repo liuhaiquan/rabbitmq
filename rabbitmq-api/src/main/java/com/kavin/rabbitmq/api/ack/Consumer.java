@@ -13,6 +13,7 @@ import com.rabbitmq.client.ConnectionFactory;
 public class Consumer {
 
     //测试 A 提交123日 54565
+	//增加备注
 	public static void main(String[] args) throws Exception {
 
 		Channel channel = ChannelUtil.getChannel();
