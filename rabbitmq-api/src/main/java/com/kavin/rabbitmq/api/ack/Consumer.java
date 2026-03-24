@@ -12,7 +12,7 @@ import com.rabbitmq.client.ConnectionFactory;
  */
 public class Consumer {
 
-    //测试 A 提交123日 54565
+    //测试 A 提交123日 54565465764634
 	//增加备注
 	public static void main(String[] args) throws Exception {
 
